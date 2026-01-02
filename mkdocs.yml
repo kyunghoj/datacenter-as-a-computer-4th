@@ -1,7 +1,5 @@
 site_name: Datacenter as a Computer, 4th Edition
 nav:
-  - Home: index.md
-  - About: about.md
   - 1장. 서론: 978-3-031-99489-0_1.md
   - 2장. WSC 아키텍처 개요: 978-3-031-99489-0_2.md
   - 3장. WSC 워크로드 개요: 978-3-031-99489-0_3.md
